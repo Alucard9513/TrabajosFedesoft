@@ -1,0 +1,19 @@
+@import url(https://fonts.google.com/specimen/Pacifico);
+
+$body-bg: rgba(0, 0, 255, 0);
+$font-face-a_dripping_marker: "Pacifico";
+
+$navbar-default-bg: navy;
+$jumbotron-bg: azure;
+$navbar-default-brand-color: #00FFFF;
+$brand-primary: #00FFFF;
+
+@import 'bootstrap';
+
+.center{
+	text-align: center;
+}
+
+.navbar-brand{
+	font-weight: bold;
+}
